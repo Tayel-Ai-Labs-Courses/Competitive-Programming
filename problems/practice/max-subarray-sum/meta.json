@@ -1,0 +1,7 @@
+{
+  "title": "Maximum subarray sum",
+  "url": "",
+  "time_limit": 2.0,
+  "tags": ["dp", "kadane"],
+  "note": "Worked example for lesson 05 (stress testing). tests/01-all-negative was produced by tools/stress.py, not by hand."
+}

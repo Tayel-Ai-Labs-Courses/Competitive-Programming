@@ -1,0 +1,17 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compiler version
+        run: g++ --version
+      - name: Every committed solution must still pass its tests
+        run: python3 tools/judge.py --all
+      - name: Every relative link in the docs must resolve
+        run: python3 tools/check_links.py
