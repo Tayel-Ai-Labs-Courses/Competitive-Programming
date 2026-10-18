@@ -1,5 +1,8 @@
 # Training plan
 
+> [`MAP.md`](MAP.md) §1 draws these phases and their gates, and §7 answers
+> "what do I do today".
+
 Starting point: **17 October 2026.** Comfortable with arrays, loops and
 functions; no C++; no Codeforces history.
 

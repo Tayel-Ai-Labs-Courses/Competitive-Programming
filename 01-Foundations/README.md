@@ -1,5 +1,7 @@
 # 01 · Foundations
 
+> Where this sits in the whole road: [`MAP.md`](../MAP.md) §1.
+
 The entry cost: the slice of C++ a contest needs, how to read a constraint, the
 containers, and how to find a bug without guessing. Three weeks.
 

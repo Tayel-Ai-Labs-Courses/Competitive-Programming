@@ -1,5 +1,8 @@
 # problems/
 
+> The loop a problem travels through, start to finish, is drawn in
+> [`MAP.md`](../MAP.md) §3.
+
 The actual record. Lessons are scaffolding; this directory is the training.
 
 ## Layout

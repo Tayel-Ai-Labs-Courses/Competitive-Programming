@@ -7,6 +7,12 @@ Part of the [Tayel AI Labs course family](https://github.com/Tayel-Ai-Labs-Cours
 Unlike the other repos here, this one is not a course you read. It is a gym.
 The lessons are short; the problem log is the real artifact.
 
+### ➜ Start at [`MAP.md`](MAP.md)
+
+One page of diagrams: the whole road, the loop a single problem goes through,
+what to do when you are stuck, and what to do today. Read it first, and go back
+to it whenever you are not sure what comes next.
+
 ---
 
 ## The language question, answered once
@@ -51,6 +57,7 @@ The repo is C++ first. Python is a tool inside it, not a second track.
 
 | Path | What it is |
 |---|---|
+| [`MAP.md`](MAP.md) | **the map** — read this first, and whenever you are lost |
 | `01-Foundations/` | C++ for a Python programmer, the template, complexity, the STL, stress testing |
 | `02-Core-Algorithms/` | Binary search, greedy, graphs, DSU, DP, number theory, strings |
 | `03-Advanced/` | Segment trees, trees and LCA, flows, geometry, bitmask DP |
@@ -60,8 +67,8 @@ The repo is C++ first. Python is a tool inside it, not a second track.
 | `tools/` | Local judge, stress tester, problem scaffolder. Standard library only. |
 | `include/bits/stdc++.h` | Hand-written, because Apple clang does not ship it |
 
-Start at [`CURRICULUM.md`](CURRICULUM.md) for the order, and
-[`TRAINING-PLAN.md`](TRAINING-PLAN.md) for the week-by-week schedule.
+After the map, [`CURRICULUM.md`](CURRICULUM.md) has the topic order and
+[`TRAINING-PLAN.md`](TRAINING-PLAN.md) the week-by-week schedule.
 [`NOTES.md`](NOTES.md) is the same material explained in Arabic, including
 every bug hit while building this repo.
 

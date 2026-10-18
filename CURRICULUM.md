@@ -1,5 +1,8 @@
 # Curriculum
 
+> Lost? [`MAP.md`](MAP.md) draws all of this, plus the dependency graph showing
+> which topic needs which.
+
 The definitive order. Topics are listed in the sequence they should be learned,
 because most of them depend on the ones above. A lesson marked ✅ is written;
 the rest are planned and will be written as the training reaches them.
